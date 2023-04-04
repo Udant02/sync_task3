@@ -1,3 +1,3 @@
-# synk-interns-task-3
+# sync_task3
 
 A Music Player App using JavaScript
